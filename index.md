@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+We have your back micro grants are straight forward. Your need for some help might be temporary like an expense you just can't afford at the moment. Or, you might have a recurring expense that you need help with until conditions change. Either way, if you can prove you have limited means to pay the expenses, we can try to help. What will we need from you? Your name; an email account; a social media account; amount your require; and a simple file uploaded (the file might be a picture, video and/or short explanation) You'll be able to register on your mobile if you want. We'll acknowledge your request right away and, depending on your request, respond with a micro grant in minutes.
 
-You can use the [editor on GitHub](https://github.com/wehaveyourbacktech/microgrants/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Who are you? You are a student enrolled either part-time or full time in a community college or a university or a trade school. You are independent and are providing for your own tuition and living expenses. You might be working or studying full time. Your need is a variable expense you didn't plan for have included in your budget. An example of a recurring need could be a internet connection monthly fee. It could be a monthly transit pass. We'll reserve the right to give you more than you request based on our assesment of your need. We'll explain when we can't help you and will provide some options and/or a lesser amount to help you find what you need.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Who are we? Our organization is a small group of people who have done well enough to be able to pay back and then some. We want to stay anonymous because what our mission is solving problems. All of of us at one time or another have been in a situation when we needed some help temporarily. We aim to help you so that you can finish your education so you are in a position to contribute and give back too.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wehaveyourbacktech/microgrants/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+https://forms.gle/iMb4eSwuDu3eBL3p7
