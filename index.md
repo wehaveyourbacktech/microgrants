@@ -22,4 +22,6 @@ Our organization is a small group of people who have done well enough to be able
 All of of us at one time or another have been in a situation when we needed some help temporarily.
 We aim to help you so that you can finish your education so you are in a position to contribute and give back too.
 
+Tell us about your need at the link below and we'll email you instructions to access funds.
+
 https://forms.gle/iMb4eSwuDu3eBL3p7
